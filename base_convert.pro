@@ -7,4 +7,5 @@ SOURCES += \
     base_convert.cpp
 
 HEADERS += \
-    base_convert.h
+    base_convert.h \
+    asm_memset.h
